@@ -9,10 +9,15 @@ Vito Vitale - Licenza MIT
 # 0. Comandi base terminale
 
 `ls -la` - visualizzazione dettagliata dei file nella cartella corrente
+
 `touch NOME_FILE` - crea un file vuoto col nome specificato
+
 `mkdir NOME_CARTELLA` - crea una cartella col nome specificato
+
 `cd NOME_CARTELLA` - entra nella cartella specificata
+
 `cd NOME_CARTELLA/NOME_SOTTOCARTELLA` - navigazione "annidata"
+
 `cd ..` - torna alla cartella di livello immediatamente superiore
 
 # 1. Inizializzazione
