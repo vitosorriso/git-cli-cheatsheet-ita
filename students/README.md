@@ -10,6 +10,13 @@ Vi chiedo, quindi, di:
 > Siete liberi di contribuire anche al cheatsheet vero e proprio (anzi mi farebbe molto piacere) e richiedere l'unione delle vostre modifiche in una nuova pull request.
 
 =========
+
 vitosorriso
+
+jacobert
+
+MiriCaliendi
+
+giuse92
 
 EllaMari
